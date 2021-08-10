@@ -28,6 +28,7 @@ Some projects from CDF already have the Chinese localization documentation. Such
 
 *In alphabetical order, except for the chairs*
 * [Addo](https://github.com/addozhang) (Flomesh)
+* [Andrea](https://github.com/andreafy) (G7 Tech)
 * [Daniel](https://github.com/danielfbm) (Alauda)
 * [Jasper](https://github.com/yuezhuangshi) (ZhongYuan Bank)
 * [John Niang](https://github.com/JohnNiang) (QingCloud)
