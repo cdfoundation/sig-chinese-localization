@@ -36,6 +36,7 @@ Some projects from CDF already have the Chinese localization documentation. Such
 * [Shawn](https://github.com/chengjingtao) (Alauda)
 * [Suke](https://github.com/wangsrGit119) (SpringBoot Chinese Community)
 * [Seamus](https://github.com/yJunS) (Jenkins Chinese Community)
+* [Robert Lu](https://github.com/robberphex) (Robert)
 
 ## Communication
 
