@@ -33,6 +33,8 @@ Some projects from CDF already have the Chinese localization documentation. Such
 * [Jasper](https://github.com/yuezhuangshi) (ZhongYuan Bank)
 * [John Niang](https://github.com/JohnNiang) (QingCloud)
 * [Lan](https://github.com/liangyuanpeng) (Yunhorn)
+* [Robert Lu](https://github.com/robberphex) (Alibaba Cloud)
+* [Seamus](https://github.com/yJunS) (Jenkins Chinese Community)
 * [Shawn](https://github.com/chengjingtao) (Alauda)
 * [Suke](https://github.com/wangsrGit119) (SpringBoot Chinese Community)
 
