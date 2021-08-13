@@ -24,7 +24,7 @@ Making tutorials for CDF projects is also a meaningful work. Such as [the tutori
 
 Some projects from CDF already have the Chinese localization documentation. Such as [Jenkins X](https://github.com/jenkins-x/jx-docs/tree/main/content/zh), [Jenkins website](https://github.com/jenkins-infra/cn.jenkins.io) and [Jenkins Localization plugin](https://github.com/jenkinsci/localization-zh-cn-plugin).
 
-## Members
+## [Members]
 
 *In alphabetical order, except for the chairs*
 * [Addo](https://github.com/addozhang) (Flomesh)
@@ -63,3 +63,21 @@ The SIG meets bi-weekly on Sunday of each month, at 13:00UTC. (*See your timezon
 - [Zoom International dial-in numbers](https://zoom.us/zoomconference).
 - [CDF Public Calendar (UTC)](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC).
 - [Recorded meetings on Youtube](TBD)
+
+## Join us
+
+If you want to join us to be one of the initial member who will deal with all of the SIG's daily management, such as meetup hosting, blogs sharing, you are welcomed to join us following the below process.
+
+* Opening a PR to add your basic information into the member list showing above.
+
+The format should contain **your english name, github address as well as your company/organization name**.
+
+* Joining the CDF Chinese Localization SIG WeChat Group
+
+Please according to this WeChat article to get the process [how to join the WeChat Group](https://mp.weixin.qq.com/s/Rvk6LGrJyFtrxkd72AlIZg)
+
+* Attending the SIG regular meeting 
+
+During the meeting, you should introduce yourself about several minutes. Finally, you will be invited into the initial member group.
+
+**Please make sure, you have already read the [how to join the WeChat Group](https://mp.weixin.qq.com/s/Rvk6LGrJyFtrxkd72AlIZg) carefully first**.
