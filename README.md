@@ -24,7 +24,7 @@ Making tutorials for CDF projects is also a meaningful work. Such as [the tutori
 
 Some projects from CDF already have the Chinese localization documentation. Such as [Jenkins X](https://github.com/jenkins-x/jx-docs/tree/main/content/zh), [Jenkins website](https://github.com/jenkins-infra/cn.jenkins.io) and [Jenkins Localization plugin](https://github.com/jenkinsci/localization-zh-cn-plugin).
 
-## [Members]
+## Members
 
 *In alphabetical order, except for the chairs*
 * [Addo](https://github.com/addozhang) (Flomesh)
