@@ -30,6 +30,7 @@ Some projects from CDF already have the Chinese localization documentation. Such
 * [Addo](https://github.com/addozhang) (Flomesh)
 * [Andrea](https://github.com/andreafy) (G7 Tech)
 * [Daniel](https://github.com/danielfbm) (Alauda)
+* [Harry](https://github.com/tcharryz) (Groupe onepoint)
 * [Jasper](https://github.com/yuezhuangshi) (ZhongYuan Bank)
 * [John Niang](https://github.com/JohnNiang) (QingCloud)
 * [Lan](https://github.com/liangyuanpeng) (Yunhorn)
